@@ -1,6 +1,10 @@
 <!-- Top Banner -->
 <img src="https://github.com/user-attachments/assets/372ee844-4e17-4092-8f45-55f87cff7201" />
 
+### 🧑‍💻 My name is ...
+- **me-ryoung, mery-oung (❌)**
+- **mer-young (⭕)**
+
 ---
 
 <!-- Content -->
