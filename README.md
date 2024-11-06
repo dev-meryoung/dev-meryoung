@@ -1,5 +1,5 @@
 <!-- Top Banner -->
-<img src="https://github.com/user-attachments/assets/ffca16fe-405d-4203-a2e0-b10acec26111" />
+<img src="https://github.com/user-attachments/assets/9cc91e16-6d41-4da7-9349-6ca61c338a71" />
 
 ## 🧑‍💻 My name is ...
 - **me-ryoung, mery-oung (❌)**
